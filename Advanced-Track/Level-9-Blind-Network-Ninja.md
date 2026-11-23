@@ -282,6 +282,7 @@ Key lessons include:
 
 Supporting evidence should include:
 
+![Level 9 Blind Network Ninja completion evidence](images/Level-9-Blind-Network-Ninja-Completion.png)
 - Baseline connectivity-checking results.
 - Command-injection testing responses.
 - Internal logging endpoint observations.
