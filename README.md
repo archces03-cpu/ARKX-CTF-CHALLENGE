@@ -28,8 +28,8 @@ The portfolio includes technical walkthroughs, observed security weaknesses, imp
 The complete assessment is available in the Full-Assessment folder:
 
 - [Full Assessment Overview](Full-Assessment/README.md)
-- [Consolidated PDF Report](Full-Assessment/Consolidated-Report.pdf)
-- [Consolidated Word Report](Full-Assessment/Consolidated-Report.docx)
+- [Consolidated PDF Report](Full-Assessment/ARKX_CTF_Security_Assessment_Public_Flags_Included.pdf)
+- [Consolidated Word Report](Full-Assessment/ARKX_CTF_Security_Assessment_Public_Flags_Included.docx)
 
 ## Skills Demonstrated
 
