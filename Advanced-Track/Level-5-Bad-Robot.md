@@ -250,11 +250,11 @@ The following mappings describe relevant security concepts rather than official 
 
 | OWASP LLM Category | Relevance |
 |---|---|
-| LLM01 — Prompt Injection | Conversational input was used to influence agent behavior and expose instructions. |
-| LLM02 — Sensitive Information Disclosure | Protected file contents were extracted through the numerical output channel. |
-| LLM05 — Improper Output Handling | Untrusted expressions reached a powerful backend tool without adequate validation and restriction. |
-| LLM06 — Excessive Agency | The agent was given access to a tool with capabilities beyond its intended calculator function. |
-| LLM07 — System Prompt Leakage | Supplementary testing demonstrated disclosure of internal instructions through pretexting. |
+| LLM01 - Prompt Injection | Conversational input was used to influence agent behavior and expose instructions. |
+| LLM02 - Sensitive Information Disclosure | Protected file contents were extracted through the numerical output channel. |
+| LLM05 - Improper Output Handling | Untrusted expressions reached a powerful backend tool without adequate validation and restriction. |
+| LLM06 - Excessive Agency | The agent was given access to a tool with capabilities beyond its intended calculator function. |
+| LLM07 - System Prompt Leakage | Supplementary testing demonstrated disclosure of internal instructions through pretexting. |
 
 ### MITRE ATLAS
 
@@ -262,10 +262,10 @@ The following techniques provide contextual mappings for the observed attack sta
 
 | Technique | Relevance |
 |---|---|
-| AML.T0051 — LLM Prompt Injection | Conversational manipulation of agent behavior. |
-| AML.T0053 — AI Agent Tool Invocation | Use of the exposed calculation tool to perform unintended operations. |
-| AML.T0056 — System Prompt Extraction | Disclosure of internal agent instructions. |
-| AML.T0086 — Exfiltration via AI Agent Tool Invocation | Extraction of protected information through tool-mediated output. |
+| AML.T0051 - LLM Prompt Injection | Conversational manipulation of agent behavior. |
+| AML.T0053 - AI Agent Tool Invocation | Use of the exposed calculation tool to perform unintended operations. |
+| AML.T0056 - System Prompt Extraction | Disclosure of internal agent instructions. |
+| AML.T0086 - Exfiltration via AI Agent Tool Invocation | Extraction of protected information through tool-mediated output. |
 
 **Primary security themes:** Excessive Agency, improper handling of untrusted tool input, unsafe dynamic evaluation, and sensitive information disclosure.
 
