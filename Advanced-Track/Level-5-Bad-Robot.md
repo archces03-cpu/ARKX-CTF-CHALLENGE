@@ -319,6 +319,7 @@ The LLM interface changed how the vulnerability was reached, but the principal t
 
 The original assessment recorded:
 
+![Level 5 Bad Robot completion evidence](images/Level-5-Bad-Robot-Completion.png)
 - Successful execution of file-reading functionality.
 - Successful retrieval of the file's character count.
 - Character-by-character extraction through numerical character codes.
