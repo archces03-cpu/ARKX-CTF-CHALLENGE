@@ -253,3 +253,4 @@ The primary remediation is to use safe YAML parsing, enforce strict input valida
 
 ## 11. Evidence
 
+![Level 6 The Shape Shifter completion evidence](images/Level-6-The-Shape-Shifter-Completion.png)
