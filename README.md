@@ -1,4 +1,4 @@
-# ARKX CTF — Security Research Portfolio
+# ARKX CTF - Security Research Portfolio
 
 A documented collection of security challenges completed on the ARKX CTF platform. This repository presents practical security testing, vulnerability analysis, exploitation findings, evidence, and recommended mitigations.
 
@@ -26,9 +26,9 @@ The portfolio covers six challenges across the Advanced and Expert tracks. Each 
 
 ## Repository Structure
 
-- `Advanced-Track/` — Advanced challenge reports.
-- `Expert-Track/` — Expert challenge reports.
-- `Full-Assessment/` — Consolidated assessment reports and supporting documentation.
+- `Advanced-Track/` - Advanced challenge reports.
+- `Expert-Track/` - Expert challenge reports.
+- `Full-Assessment/` - Consolidated assessment reports and supporting documentation.
 
 ## Methodology
 
