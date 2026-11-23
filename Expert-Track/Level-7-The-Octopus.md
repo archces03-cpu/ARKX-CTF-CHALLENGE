@@ -387,3 +387,4 @@ The principal remediation is to keep credentials, session identity and authoriza
 
 ## 11. Evidence
 
+![Level 7 The Octopus completion evidence](images/Level-7-The-Octopus-Completion.png)
