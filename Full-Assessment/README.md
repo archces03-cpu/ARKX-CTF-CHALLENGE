@@ -1,0 +1,27 @@
+# Full Security Assessment
+
+This folder contains the consolidated ARKX CTF security assessment, bringing together the findings from the Advanced and Expert challenge tracks.
+
+## Assessment Reports
+
+The full assessment is available in the following formats:
+
+- **Consolidated-Report.pdf** - PDF version
+- **Consolidated-Report.docx** - Editable Word version
+
+## Coverage
+
+The assessment documents six completed challenges:
+
+1. **Advanced Level 5 - Bad Robot**
+2. **Advanced Level 7 - Master of Resources**
+3. **Advanced Level 9 - Blind Network Ninja**
+4. **Expert Level 6 - The Shape Shifter**
+5. **Expert Level 7 - The Octopus**
+6. **Expert Level 8 - The Heist**
+
+Each individual challenge report includes technical findings, security implications, remediation recommendations, and available completion evidence.
+
+## Purpose
+
+This portfolio demonstrates practical exploration of vulnerabilities involving agentic AI systems, LLM tool use, insecure deserialization, access control, command injection, and race conditions.
