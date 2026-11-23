@@ -200,7 +200,6 @@ The successful simultaneous execution of both pending orders produced the dual-f
 
 The challenge reached its completed state, and the original assessment flag was recorded as `flag-1feef9`.
 
-The completion screenshot is maintained in the repository's `Expert-Track/images/` directory and will be embedded below.
 
 ![Level 8 The Heist completion evidence](images/Level-8-The-Heist-Completion.png)
 
