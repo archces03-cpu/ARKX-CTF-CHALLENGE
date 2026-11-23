@@ -220,6 +220,7 @@ Important lessons include:
 
 The assessment evidence should include:
 
+![Level 7 Master of Resources completion evidence](images/Level-7-Master-of-Resources-Completion.png)
 - MCP endpoint initialization and successful handshake.
 - Tool enumeration showing `unlock_flag`.
 - Successful invocation of the unlock operation.
